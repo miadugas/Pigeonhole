@@ -1,10 +1,12 @@
 # Pigeonhole (a project collaboration)
 
-Music Organization for Music Lovers
+Music Organization for Music Lovers:
 
 **40,000 ...**
+
 That's the number of new songs uploaded to Spotify every day.
 Thats a lot of music to listen to. Add an album and fall into the 
+
 **Pigeonhole**
 
 Where **YOU** rank, **YOU** write notes & analyze what **YOU** love about an album and let our algorithm do the rest.
