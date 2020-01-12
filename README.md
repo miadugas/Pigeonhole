@@ -18,6 +18,7 @@ The application is responsive, ensuring that it adapts to multiple screen sizes.
 * Back end - Spotify API [Peter Augros](https://github.com/peteraugros)
 * Front end - Foundation framework & Frontend design [Mia Dugas](https://github.com/miadugas) 
  * Front end - Foundation framework [Caitlynn Davis](https://github.com/davicait)
+
 Follows the MVC paradigm 
 
  Live Site: https://pigeonhole-music.herokuapp.com/
