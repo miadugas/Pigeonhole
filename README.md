@@ -19,7 +19,7 @@ Spotify API (Peter Augros)
 Foundation framework (Mia Dugas & Caitlynn Davis)
 Follows the MVC paradigm 
 
- Live Site: 
+ Live Site: https://pigeonhole-music.herokuapp.com/
  
 ![Image of Pigeonhole](https://github.com/miadugas/Pigeonhole/blob/master/repo_images/logo.png)
 ![Image of Pigeonhole- about](https://github.com/miadugas/Pigeonhole/blob/master/repo_images/descript.png)
