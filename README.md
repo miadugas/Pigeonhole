@@ -14,9 +14,10 @@ Our app was built on Zurb Foundation, deployed to Heroku and uses the Spotify AP
 The application is responsive, ensuring that it adapts to multiple screen sizes.
 
 
-Back end - GET and POST routes for retrieving and adding new data [Lindsey Brown](https://github.com/libersword)
-Back end - Spotify API [Peter Augros](https://github.com/peteraugros)
-Front end - Foundation framework [Mia Dugas](https://github.com/miadugas) & [Caitlynn Davis](https://github.com/davicait)
+* Back end - GET and POST routes for retrieving and adding new data [Lindsey Brown](https://github.com/libersword)
+* Back end - Spotify API [Peter Augros](https://github.com/peteraugros)
+* Front end - Foundation framework & Frontend design [Mia Dugas](https://github.com/miadugas) 
+ * Front end - Foundation framework [Caitlynn Davis](https://github.com/davicait)
 Follows the MVC paradigm 
 
  Live Site: https://pigeonhole-music.herokuapp.com/
