@@ -19,5 +19,5 @@ Follows the MVC paradigm
 
  Live Site: 
  
-![Image of Pigeonhole]( )
-![Image of Pigeonhole- about]( )
+![Image of Pigeonhole](https://github.com/miadugas/Pigeonhole/blob/master/repo_images/logo.png)
+![Image of Pigeonhole- about](https://github.com/miadugas/Pigeonhole/blob/master/repo_images/descript.png)
