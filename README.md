@@ -2,12 +2,12 @@
 
 Music Organization for Music Lovers
 
-40,000 ... 
+**40,000 ...**
 That's the number of new songs uploaded to Spotify every day.
 Thats a lot of music to listen to. Add an album and fall into the 
-Pigeonhole
+**Pigeonhole**
 
-Where YOU rank, YOU write notes & analyze what YOU love about an album and let our algorithm do the rest.
+Where **YOU** rank, **YOU** write notes & analyze what **YOU** love about an album and let our algorithm do the rest.
 
 Our app was built on Zurb Foundation, deployed to Heroku and uses the Spotify API, mySQL database, and Sequelize to organize YOUR music preferences.
 
